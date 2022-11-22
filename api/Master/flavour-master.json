@@ -1,0 +1,22 @@
+[
+    {
+        "id": 201,
+        "name": "Sweet",
+        "remark": "Sugary in taste"
+    },
+    {
+        "id": 202,
+        "name": "Sour/Salted",
+        "remark": "Salted in taste"
+    },
+    {
+        "id": 205,
+        "name": "Spicy",
+        "remark": "Spicy in taste"
+    },
+    {
+        "id": 207,
+        "name": "Other",
+        "remark": "Can be taste less"
+    }
+]

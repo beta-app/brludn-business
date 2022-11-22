@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1101,
+        "name": "all",
+        "alert": {
+            "id": 1,
+            "name": "information",
+            "message": "avoid to eat at dinner"
+        }
+    },
+    {
+        "id": 11104,
+        "name": "sick",
+        "alert": {
+            "id": 1,
+            "name": "information",
+            "message": "avoid to eat at dinner"
+        }
+    },
+    {
+        "id": 1103,
+        "name": "infants",
+        "alert": {
+            "id": 1,
+            "name": "warning",
+            "message": "donot feed"
+        }
+    },
+    {
+        "id": 1107,
+        "name": "pregnant woman",
+        "alert": {
+            "id": 1,
+            "name": "warning",
+            "message": "donot eat"
+        }
+    },
+    {
+        "id": 1109,
+        "name": "dibetic",
+        "alert": {
+            "id": 1,
+            "name": "warning",
+            "message": "donot eat"
+        }
+    },
+    {
+        "id": 11011,
+        "name": "weight gainer",
+        "alert": {
+            "id": 1,
+            "name": "information",
+            "message": "avoid to eat post workout"
+        }
+    },
+    {
+        "id": 11012,
+        "name": "weight losser",
+        "alert": {
+            "id": 1,
+            "name": "information",
+            "message": "avoid to eat post workout"
+        }
+    },
+    {
+        "id": 11014,
+        "name": "kids",
+        "alert": {
+            "id": 1,
+            "name": "information",
+            "message": "avoid to eat in morning"
+        }
+    }
+]

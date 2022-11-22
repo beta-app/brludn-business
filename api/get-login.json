@@ -1,0 +1,6 @@
+{
+    "username": "rajneesh kumar",
+    "role": "admin",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTZAcS50IiwianRpIjoiNzAwNTBhNzItZGI4OC00MDI3LTgzNTctN2IyZTFhNTM1YWI5IiwiZW1haWwiOiIxMjM0NTZAcS50IiwidWlkIjoiNzBjNWViOGMtNjYzNC00ZGZlLTg5ZWQtNDBmMzNiNjgwYzQ0IiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTY2NTUwNTg5MSwiaXNzIjoiYnJsdWRuIiwiYXVkIjoiYnJsdWRuIn0.AFXitw3VN01x92CI2Jge1GbRPIXci617nCdN5aa2ZTU",
+    "refreshToken": ""
+}

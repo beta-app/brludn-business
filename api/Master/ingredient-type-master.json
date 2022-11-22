@@ -1,0 +1,19 @@
+[
+    {
+        "id": 11,
+        "name": "Veg"
+        
+    },
+    {
+        "id": 12,
+        "name": "None-Veg"
+    },
+    {
+        "id": 13,
+        "name": "Veg+None-Veg"
+    },
+    {
+        "id": 14,
+        "name": "Mixed Veg"
+    }
+]

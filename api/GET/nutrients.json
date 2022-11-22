@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2201,
+        "name": "protein",
+        "value": 10,
+        "unit": "gram",
+        "calories": 40
+    },
+    {
+        "id": 2203,
+        "name": "Carbohydrates",
+        "value": 10,
+        "unit": "gram",
+        "calories": 40
+    },
+    {
+        "id": 2205,
+        "name": "fat",
+        "value": 20,
+        "unit": "gram",
+        "calories": 180
+    },
+    {
+        "id": 2207,
+        "name": "fiber",
+        "value": 100,
+        "unit": "gram",
+        "calories": 90
+    }
+]

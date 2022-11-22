@@ -1,0 +1,14 @@
+[
+    {
+        "id":101,
+        "name":"Information"
+    },
+    {
+        "id":102,
+        "name":"Warning"
+    },
+    {
+        "id":101,
+        "name":"Critical"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 22,
+        "name": "Low",
+        "remark": "Low in taste"
+    },
+    {
+        "id": 33,
+        "name": "Standard",
+        "remark": "Standard or regular taste"
+    },
+    {
+        "id": 44,
+        "name": "Strong",
+        "remark": "Rich Taste"
+    }
+]

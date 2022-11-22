@@ -1,0 +1,32 @@
+[
+    {
+        "id": 201,
+        "name": "Sweet",
+        "intencity": {
+            "id": 22,
+            "name": "low"
+        },
+        "remark": null
+    },
+    {
+        "id": 202,
+        "name": "Sour/Salted",
+        "intencity": {
+            "id": 33,
+            "name": "regular"
+        },
+        "remark": null
+    },
+    {
+        "id": 205,
+        "name": "None",
+        "intencity": null,
+        "remark": null
+    },
+    {
+        "id": 207,
+        "name": "Other",
+        "intencity": null,
+        "remark": "tast less"
+    }
+]

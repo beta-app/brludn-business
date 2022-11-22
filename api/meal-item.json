@@ -1,0 +1,111 @@
+[
+    {
+        "id": 201,
+        "name": "Veg curry",
+        "description": "it's a low spicy veg. Eatable with chappati or rice",
+        "displayImage": "img/veg-curry.png",
+        "imageGallary": [
+            "img/veg-curry-1.png",
+            "img/veg-curry-jpg"
+        ],
+        "mealItemType": {
+            "id": 401,
+            "name": "non-veg",
+            "nonVegType": {
+                "id": 501,
+                "name": "mutton"
+            }
+        },
+        "ingredient": {
+            "major": [
+                {
+                    "id": 101,
+                    "name": "patato"
+                },
+                {
+                    "id": 102,
+                    "name": "water"
+                },
+                {
+                    "id": 103,
+                    "name": "salt"
+                }
+            ],
+            "minor": [
+                {
+                    "id": 107,
+                    "name": "Corinder"
+                },
+                {
+                    "id": 109,
+                    "name": "turmaric"
+                }
+            ]
+        },
+        "flavour": {
+            "id": 201,
+            "name": "Sweet",
+            "flavourIntensity": {
+                "id": 22,
+                "name": "low"
+            },
+            "remark": null
+        },
+        "mealItemForm": {
+            "id": 301,
+            "name": "Dry"
+        },
+        "designedFor": [
+            {
+                "id": 1101,
+                "name": "all"
+            },
+            {
+                "id": 11104,
+                "name": "sick"
+            }
+        ],
+        "notAdvisable": [
+            {
+                "id": 1103,
+                "name": "infants"
+            },
+            {
+                "id": 1107,
+                "name": "pregnant woman"
+            },
+            {
+                "id": 1109,
+                "name": "dibetic"
+            }
+        ],
+        "bestBefore": {
+            "id": 601,
+            "name": 2,
+            "duration": "hour"
+        },
+        "nutrients": [
+            {
+                "id": 2201,
+                "name": "protein",
+                "value": 10,
+                "unit": "gram",
+                "calories": 40
+            },
+            {
+                "id": 2203,
+                "name": "Carbohydrates",
+                "value": 10,
+                "unit": "gram",
+                "calories": 40
+            },
+            {
+                "id": 2205,
+                "name": "fat",
+                "value": 20,
+                "unit": "gram",
+                "calories": 180
+            }
+        ]
+    }
+]

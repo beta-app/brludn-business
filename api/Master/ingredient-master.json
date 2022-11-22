@@ -1,0 +1,37 @@
+[
+    {
+        "id": 101,
+        "name": "Patato",
+        "detail": ""
+    },
+    {
+        "id": 23,
+        "name": "Tamato",
+        "detail": ""
+    },
+    {
+        "id": 102,
+        "name": "Water",
+        "detail": ""
+    },
+    {
+        "id": 103,
+        "name": "Salt",
+        "detail": ""
+    },
+    {
+        "id": 104,
+        "name": "Flour",
+        "detail": ""
+    },
+    {
+        "id": 105,
+        "name": "Mixed Grain Flour",
+        "detail": ""
+    },
+    {
+        "id": 106,
+        "name": "Rice",
+        "detail": ""
+    }
+]

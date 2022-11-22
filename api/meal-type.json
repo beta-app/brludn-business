@@ -1,0 +1,22 @@
+[
+    {
+        "id": 222,
+        "name": "Breakfast",
+        "description": "Daily Breakfast meal type"
+    },
+    {
+        "id": 333,
+        "name": "Lunch",
+        "description": "Daily Lunch meal type"
+    },
+    {
+        "id": 444,
+        "name": "Diner",
+        "description": "Daily Dinner meal type"
+    },
+    {
+        "id": 555,
+        "name": "Other",
+        "description": "Other meal type "
+    }
+]

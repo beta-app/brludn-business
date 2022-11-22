@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "name": "Patato",
+        "ingredientsType": {
+            "id": 103,
+            "name": "Veg"
+        },
+        "ingredientLevel": {
+            "id": 330,
+            "name": "Minor"
+        }
+    },
+    {
+        "id": 102,
+        "name": "water",
+        "ingredientsType": null,
+        "ingredientLevel": {
+            "id": 330,
+            "name": "Minor"
+        }
+    },
+    {
+        "id": 103,
+        "name": "salt",
+        "ingredientsType": null,
+        "ingredientLevel": {
+            "id": 330,
+            "name": "Minor"
+        }
+    },
+    {
+        "id": 103,
+        "name": "Mutton",
+        "ingredientsType": {
+            "id": 101,
+            "name": "None-Veg"
+        },
+        "ingredientLevel": {
+            "id": 321,
+            "name": "Major"
+        }
+    }
+]

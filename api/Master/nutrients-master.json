@@ -1,0 +1,18 @@
+[
+    {
+        "id": 2201,
+        "name": "Protein"
+    },
+    {
+        "id": 2203,
+        "name": "Carbohydrates"
+    },
+    {
+        "id": 2205,
+        "name": "Fat"
+    },
+    {
+        "id": 2207,
+        "name": "Fiber"
+    }
+]

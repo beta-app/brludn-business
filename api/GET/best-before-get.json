@@ -1,0 +1,12 @@
+[
+    {
+        "id": 601,
+        "ByTYpe": "hour",
+        "duration": 2
+    },
+    {
+        "id": 602,
+        "ByTYpe": "Day",
+        "duration": 1
+    }
+]
